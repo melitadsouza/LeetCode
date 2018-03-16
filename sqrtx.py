@@ -1,3 +1,5 @@
+#Time Complexity: O(logx), Space Complexity: O(1)
+
 class Solution(object):
     def mySqrt(self, x):
         """
